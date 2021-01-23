@@ -1,0 +1,79 @@
+
+.background img{
+    width:117px ;
+    position: absolute;
+    left: 0;
+    top: 520px;
+}
+li a{
+    color:gray;
+}
+.bg-light{
+    background-color: white !important;
+}
+.container{
+    margin-top: 30px;
+}
+.cr_sct_bck{
+    background-image: url("images/bg-1.png");
+    background-size: 4%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fr_margn{
+    margin-bottom: 30px;
+}
+.carousel-item p{
+    color: gray;
+}
+.carousel-indicators li{
+    background-color: orange;
+    height: 5px;
+    width: 25px;
+    border-radius: 12px;
+}
+a{
+    text-decoration: none;
+    color: orange;
+    font-weight: 600;
+}
+.smrt_ph_bckg img{
+    width:250px;
+}
+.card{
+    padding: 30px 0px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+/* .smrt_ph_bckg{
+    background-image: url("images/bg-2.png");
+    background-repeat: no-repeat;
+    background-size: 6%;
+    
+} */
+.category h4{
+    text-align: center;
+}
+.category hr{
+    width: 7%;
+    border: 3px solid red;
+    margin: auto;
+    border-radius: 10px;
+}
+.col-last img{
+    width: 100%;
+}
+.box{
+    box-shadow: 5px 5px 10px lightgray;
+    margin: 7px;
+    border-radius: 7px;
+    padding: 50px;
+}
+.category .row{
+    margin: 40px 0px;
+}
